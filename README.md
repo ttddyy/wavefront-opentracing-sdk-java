@@ -44,7 +44,6 @@ Tracer createWavefrontTracer(String application, String service) throws IOExcept
 }
 ```
 
-
 ### 1. Set Up Application Tags
 
 Application tags determine the metadata (span tags) that are included with every span reported to Wavefront. These tags enable you to filter and query trace data in Wavefront.
